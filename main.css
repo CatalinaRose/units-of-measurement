@@ -1,0 +1,18 @@
+body {
+    background: purple;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+article {
+    background-image: url(img/darkflowers.jpg);
+    font-size: 4rem;
+    border: 2px solid black;
+}
+
+p {
+    margin: 1em;
+    border: 1px solid lightgrey;
+}

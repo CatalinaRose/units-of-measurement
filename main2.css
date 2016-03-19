@@ -1,0 +1,22 @@
+body {
+    background-color: #00bf00;
+}
+
+html {
+    font-size: 60.5%;
+}
+
+article {
+    /*font-size: 2rem;*/
+    /*font-size: 2em;*/
+    font-size: 250%;
+}
+
+section {
+    /*font-size: 2em;*/
+    font-size: 100%;
+}
+
+h2:first-child {
+    color: darkred;
+}
